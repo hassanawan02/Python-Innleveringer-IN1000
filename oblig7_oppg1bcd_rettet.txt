@@ -1,0 +1,6 @@
+2. Problemet vi kan få med en ordbok her er at det ikke blir en spesifikk rekkefølge. Vi bruker derfor heller en liste
+som holder litt mer orden på rekkefølgen til alle sangene og artistene. 
+3. Konstruktøren blir veldig uoversiktlig hvis vi leser inn filen i konstruktøren. I tillegg blir det lettere for oss å redigere
+les inn fil metoden. 
+4. Hvis vi endrer på rekkefølgen til parameterne artist og sanger så burde vi kunne bytte om rekkefølgen. Argumentene må
+fremdeles stemme med paramterne. 
